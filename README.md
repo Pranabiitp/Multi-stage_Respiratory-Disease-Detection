@@ -1,4 +1,4 @@
-# Multi-stage_COVID-19_Detection Fuzzy Ensemble-based Multi-stage Network for COVID-19 detection and Severity Assessment from Chest X-ray
+# Fuzzy Ensemble-based Multi-stage Network for COVID-19 detection and Severity Assessment from Chest X-ray
 AbstractL: Chest radiography (CXR) is a commonly used imaging modality for var-
 ious lung abnormality screening. It plays a crucial role in monitoring the
 progression of the disease, allocating limited medical resources, and plan-
